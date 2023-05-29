@@ -1,4 +1,3 @@
-#include <cs50.h>
 #include <stdio.h>
 
 #define ARRAY_LENGTH 11
